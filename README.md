@@ -1,5 +1,5 @@
 # ConstructionProjectSQL
-Construction Project Analytics Using SQL
+
 📘 Project Overview
 This project simulates a real-world construction company scenario to demonstrate SQL querying and analytics skills. It leverages a relational database that contains data on projects, employees, materials, tasks, and suppliers, enabling deep insights into project performance, resource allocation, and cost management.
 
