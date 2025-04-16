@@ -1,9 +1,11 @@
 # ConstructionProjectSQL
 
 📘 Project Overview
+
 This project simulates a real-world construction company scenario to demonstrate SQL querying and analytics skills. It leverages a relational database that contains data on projects, employees, materials, tasks, and suppliers, enabling deep insights into project performance, resource allocation, and cost management.
 
 🔍 Objectives
+
 Analyze project performance based on budget, tasks, and materials
 
 Track employee contribution and identify high-performing departments
@@ -13,6 +15,7 @@ Monitor material usage and supplier efficiency
 Practice advanced SQL techniques including window functions and subqueries
 
 🛠️ Technologies Used
+
 SQL Server / T-SQL
 
 SSMS (SQL Server Management Studio) 
@@ -22,6 +25,7 @@ CSV files for data input
 
 
 🧱 Dataset Description
+
 The project includes 6 tables:
 
 Projects: Project details such as budget, client, and status
@@ -37,13 +41,13 @@ Suppliers: Vendor list for material supply
 Departments: Mapping of departments for organization-level insights
 
 ✅ Skills Demonstrated
+
 Skill Category	Techniques Covered
 Data Modeling	Joins, primary-foreign key relationships
 Filtering & Aggregation	WHERE, HAVING, GROUP BY, aggregate functions
 Subqueries	Correlated and scalar subqueries
 Window Functions	ROW_NUMBER(), RANK(), SUM() OVER, AVG() OVER
 CTEs	Layered logic and modular SQL using WITH clauses
-
 Real-World Thinking	Cost analysis, performance tracking, budget control
 
 🧪 Sample Questions Solved
